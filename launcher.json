@@ -1,0 +1,60 @@
+{
+  "baseUrl": "https://github.com/diegoads89/mobile/releases/download/base-v1",
+  "patchUrl": "https://raw.githubusercontent.com/diegoads89/mobile/main",
+  "minApk": 1,
+  "patches": [],
+  "revision": 0,
+  "base": {
+    "version": 1,
+    "revision": 0,
+    "minInstalled": 1,
+    "installedSize": 2178475760,
+    "parts": [
+      {
+        "name": "base1_01.zip",
+        "size": 158094085,
+        "sha256": "750d026c8d0495974d7a7b8ec6b8907319223251d2b917f2b482084b6f430ddb"
+      },
+      {
+        "name": "base1_02.zip",
+        "size": 157546972,
+        "sha256": "2fc030ee7f9c8110dda72673f288a095f45559b888476a7b9b68c5de62d9b3d4"
+      },
+      {
+        "name": "base1_03.zip",
+        "size": 159595486,
+        "sha256": "b9806555ae8e21d5b5a237ae9161d67946728e7edddd03935dd93552f2280bd2"
+      },
+      {
+        "name": "base1_04.zip",
+        "size": 157324670,
+        "sha256": "9963d9df1c09551f6cb72e4aae995e5435f83621088b749858acf3f79cf96c04"
+      },
+      {
+        "name": "base1_05.zip",
+        "size": 157646622,
+        "sha256": "43353e89b26d23836e43af1c67364abfce2310df05023f70a973d32ec0a0a95a"
+      },
+      {
+        "name": "base1_06.zip",
+        "size": 157594074,
+        "sha256": "2a2918664a7451d243f2709292b9139db0981a930321baf2344cda8dc7dbb4e6"
+      },
+      {
+        "name": "base1_07.zip",
+        "size": 159616780,
+        "sha256": "932cf9e5ed386dbb74a7fc8025b8a3c4ab9ff77c3916bfa28f034d15551f3850"
+      },
+      {
+        "name": "base1_08.zip",
+        "size": 158538991,
+        "sha256": "f837dce5469bc8df82a993f7e4ae666732341c7808e8b77c429c46a79d46a847"
+      },
+      {
+        "name": "base1_09.zip",
+        "size": 150820831,
+        "sha256": "aeaedf13ab255d6c97c3390eb05f78e70cc7927e9c488e2ed119524f2618618f"
+      }
+    ]
+  }
+}
