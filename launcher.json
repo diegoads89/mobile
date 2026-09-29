@@ -2,8 +2,15 @@
   "baseUrl": "https://github.com/diegoads89/mobile/releases/download/base-v1",
   "patchUrl": "https://raw.githubusercontent.com/diegoads89/mobile/main",
   "minApk": 1,
-  "patches": [],
-  "revision": 0,
+  "patches": [
+    {
+      "rev": 1,
+      "name": "MU_CLI_000001.zip",
+      "size": 1223625,
+      "sha256": "36491de44739507677d7781eee132eaa7a6d5c11d752ff93ed092111f470c727"
+    }
+  ],
+  "revision": 1,
   "base": {
     "version": 1,
     "revision": 0,
