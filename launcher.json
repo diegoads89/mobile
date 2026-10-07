@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://github.com/diegoads89/mobile/releases/download/base-v1",
   "patchUrl": "https://raw.githubusercontent.com/diegoads89/mobile/main",
-  "minApk": 1,
+  "minApk": 9,
   "patches": [
     {
       "rev": 1,
@@ -69,5 +69,6 @@
         "sha256": "aeaedf13ab255d6c97c3390eb05f78e70cc7927e9c488e2ed119524f2618618f"
       }
     ]
-  }
+  },
+  "apkUrl": "https://github.com/diegoads89/mobile/releases/download/apk-v9/MUGlory-Mobile-9.apk"
 }
