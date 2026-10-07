@@ -8,9 +8,15 @@
       "name": "MU_CLI_000001.zip",
       "size": 1223625,
       "sha256": "36491de44739507677d7781eee132eaa7a6d5c11d752ff93ed092111f470c727"
+    },
+    {
+      "rev": 2,
+      "name": "MU_CLI_000002.zip",
+      "size": 86534799,
+      "sha256": "f5c3c3f4f5dae4bbd5633fb147125818b13965d6e42978b65c92fc1582c10911"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "base": {
     "version": 1,
     "revision": 0,
