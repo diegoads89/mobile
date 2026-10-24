@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://github.com/diegoads89/mobile/releases/download/base-v1",
   "patchUrl": "https://raw.githubusercontent.com/diegoads89/mobile/main",
-  "minApk": 20,
+  "minApk": 22,
   "patches": [
     {
       "rev": 1,
@@ -88,8 +88,8 @@
       }
     ]
   },
-  "apkUrl": "https://github.com/diegoads89/mobile/releases/download/apk-v20/MUGlory-Mobile-20.apk",
-  "apkVersion": 20,
-  "apkSize": 20498395,
-  "apkSha256": "f33c7ff87507f979c8857ca91c28061b67794571531780361c7ca6af6fbd57f5"
+  "apkUrl": "https://github.com/diegoads89/mobile/releases/download/apk-v22/MUGlory-Mobile-22.apk",
+  "apkVersion": 22,
+  "apkSize": 20498371,
+  "apkSha256": "7ed30efa5c57281eae40aa6733158b22cf9a66606ac82ed9884df280bb708d38"
 }
