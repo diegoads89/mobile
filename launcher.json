@@ -88,8 +88,8 @@
       }
     ]
   },
-  "apkUrl": "https://github.com/diegoads89/mobile/releases/download/apk-v31/MUGlory-Mobile-31.apk",
-  "apkVersion": 31,
-  "apkSize": 20507711,
-  "apkSha256": "a9b892eed220c9502dfae71fef9a8f6e5b8d7be64d81224d76c618e117a31ccd"
+  "apkUrl": "https://github.com/diegoads89/mobile/releases/download/apk-v34/MUGlory-Mobile-34.apk",
+  "apkVersion": 34,
+  "apkSize": 20507911,
+  "apkSha256": "0b31fd9766d15e4596d2a7366ac8b3f9f57312a705757a0f4c36fb0ca5f65fb9"
 }
